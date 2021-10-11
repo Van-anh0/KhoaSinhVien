@@ -1,0 +1,376 @@
+﻿2015591	Bon Đinh Hải	Dương	CTK44B	Khoa Công nghệ thông tin
+1710172	Nguyễn Đức	Hiếu	CTK41	Khoa Công nghệ thông tin
+2011434	Nguyễn Chí	Tài	CTK44A	Khoa Công nghệ thông tin
+2011455	Lý Minh	Tú	CTK44A	Khoa Công nghệ thông tin
+2011426	Đặng Tịnh	Quân	CTK44A	Khoa Công nghệ thông tin
+2012344	Trương Minh	An	CTK44A	Khoa Công nghệ thông tin
+2011393	Đặng Quốc Gia	Huy	CTK44A	Khoa Công nghệ thông tin
+1710137	Lê Đức	Cường	CTK41	Khoa Công nghệ thông tin
+1710143	Phạm Thành	Đạt	CTK41	Khoa Công nghệ thông tin
+2011354	Trần Thị Ngọc	Ánh	CTK44A	Khoa Công nghệ thông tin
+1910156	Nguyễn Hoàng Trung	Vương	CTK43	Khoa Công nghệ thông tin
+1911190	Trần Văn	Quân	CTK43	Khoa Công nghệ thông tin
+1910133	Phan Nhật	Lâm	CTK43	Khoa Công nghệ thông tin
+1910132	Huỳnh Khánh	Lâm	CTK43	Khoa Công nghệ thông tin
+1911200	Trần Thành	Tài	CTK43	Khoa Công nghệ thông tin
+2012356	Nguyễn Việt	Hoàng	CTK44B	Khoa Công nghệ thông tin
+1610184	Võ Đức	Phong	CTK40	Khoa Công nghệ thông tin
+2015591	Bon Đinh Hải	Dương	CTK44B	Khoa Công nghệ thông tin
+2015840	Nguyễn Ngọc Minh	Tiến	CTK44B	Khoa Công nghệ thông tin
+1911162	Mai Thanh	Lâm	CTK43	Khoa Công nghệ thông tin
+1812732	Trần Phúc Quang	Châu	CTK42	Khoa Công nghệ thông tin
+1812728	Bùi Quốc	Bảo	CTK42	Khoa Công nghệ thông tin
+1910136	Tôn Thất Nhật	Minh	CTK43	Khoa Công nghệ thông tin
+1910134	Nguyễn Thị Thanh	Lịch	CTK43	Khoa Công nghệ thông tin
+2015597	Đoàn Quang	Huy	CTK44B	Khoa Công nghệ thông tin
+2012356	Nguyễn Việt	Hoàng	CTK44B	Khoa Công nghệ thông tin
+2015840	Nguyễn Ngọc Minh	Tiến	CTK44B	Khoa Công nghệ thông tin
+2014478	Nguyễn Xuân	Phát	CTK44B	Khoa Công nghệ thông tin
+2014485	Quảng Văn	Sương	CTK44B	Khoa Công nghệ thông tin
+2014468	Nguyễn Thành	Long	CTK44B	Khoa Công nghệ thông tin
+2015838	Đỗ Hoài	Nam	CTK44B	Khoa Công nghệ thông tin
+2012346	Vũ Ngọc Tuấn	Anh	CTK44B	Khoa Công nghệ thông tin
+2011413	Hoàng Công	Nguyên	CTK44B	Khoa Công nghệ thông tin
+2014440	Nguyễn Lương Gia	Bảo	CTK44B	Khoa Công nghệ thông tin
+2015595	Phạm Ngọc	Hưng	CTK44B	Khoa Công nghệ thông tin
+2014476	Trần Đình Minh	Nhật	CTK44B	Khoa Công nghệ thông tin
+2014446	Trần Diệu	Đông	CTK44B	Khoa Công nghệ thông tin
+2014493	Nguyễn Kiên	Thành	CTK44B	Khoa Công nghệ thông tin
+2014488	Nguyễn Khắc	Tấn	CTK44B	Khoa Công nghệ thông tin
+2014464	Nguyễn Bảo	Lâm	CTK44B	Khoa Công nghệ thông tin
+2014458	Phạm Hoàng Nhật	Huy	CTK44B	Khoa Công nghệ thông tin
+2015738	Nguyễn Minh	Nhật	CTK44B	Khoa Công nghệ thông tin
+2015610	Phạm Thanh	Sơn	CTK44B	Khoa Công nghệ thông tin
+2011402	Dương Mỹ	Lộc	CTK44B	Khoa Công nghệ thông tin
+2015719	Nguyễn Hữu Tài	Linh	CTK44B	Khoa Công nghệ thông tin
+2012364	Phan Thị Mỹ	Linh	CTK44B	Khoa Công nghệ thông tin
+2015585	Đỗ Hải	Anh	CTK44B	Khoa Công nghệ thông tin
+2015600	Đỗ Nguyễn Quốc	Kiệt	CTK44B	Khoa Công nghệ thông tin
+2014508	Nguyễn Trường	Vũ	CTK44B	Khoa Công nghệ thông tin
+2014462	Hoàng Đình Tuấn	Kiệt	CTK44B	Khoa Công nghệ thông tin
+1710197	Trần Thanh	Khoa	CTK41	Khoa Công nghệ thông tin
+1812813	Phan Công Trọng	Nhân	CTK42	Khoa Công nghệ thông tin
+2011390	Nguyễn Đức	Hùng	CTK44A	Khoa Công nghệ thông tin
+2011426	Đặng Tịnh	Quân	CTK44A	Khoa Công nghệ thông tin
+2011362	Nguyễn Văn	Chính	CTK44A	Khoa Công nghệ thông tin
+2012365	Nguyễn Minh	Long	CTK44A	Khoa Công nghệ thông tin
+2012351	Trần Đình	Duy	CTK44A	Khoa Công nghệ thông tin
+1710172	Nguyễn Đức	Hiếu	CTK41	Khoa Công nghệ thông tin
+2011412	Đặng Trọng	Nguyên	CTK44A	Khoa Công nghệ thông tin
+2011410	Vũ Huy	Ngữ	CTK44A	Khoa Công nghệ thông tin
+2011432	Nguyễn Ngọc	Sơn	CTK44A	Khoa Công nghệ thông tin
+2015838	Đỗ Hoài	Nam	CTK44B	Khoa Công nghệ thông tin
+2014485	Quảng Văn	Sương	CTK44B	Khoa Công nghệ thông tin
+2014478	Nguyễn Xuân	Phát	CTK44B	Khoa Công nghệ thông tin
+2014468	Nguyễn Thành	Long	CTK44B	Khoa Công nghệ thông tin
+2015840	Nguyễn Ngọc Minh	Tiến	CTK44B	Khoa Công nghệ thông tin
+2011413	Hoàng Công	Nguyên	CTK44B	Khoa Công nghệ thông tin
+2012346	Vũ Ngọc Tuấn	Anh	CTK44B	Khoa Công nghệ thông tin
+1910124	Trần Ngọc	Hậu	CTK43	Khoa Công nghệ thông tin
+1911190	Trần Văn	Quân	CTK43	Khoa Công nghệ thông tin
+1914775	Đinh Trọng	Đạt	CTK43	Khoa Công nghệ thông tin
+1911185	Nguyễn Thành	Phú	CTK43	Khoa Công nghệ thông tin
+1911147	Đào Xuân	Hải	CTK43	Khoa Công nghệ thông tin
+1911153	Lê Quang	Hùng	CTK43	Khoa Công nghệ thông tin
+1710292	Cao Hữu Anh	Tú	CTK41	Khoa Công nghệ thông tin
+1813758	Nguyễn Thành	Luân	CTK42	Khoa Công nghệ thông tin
+1813766	Dương Văn	Tứ	CTK42	Khoa Công nghệ thông tin
+1813857	Trần Hữu Khải	Quân	CTK42	Khoa Công nghệ thông tin
+1710218	Hoàng Anh	Minh	CTK41	Khoa Công nghệ thông tin
+1910155	Ngô Phạm Tú	Uyên	CTK43	Khoa Công nghệ thông tin
+1911164	Võ Đình Hoàng	Long	CTK43	Khoa Công nghệ thông tin
+1910127	Nhữ Văn	Hữu	CTK43	Khoa Công nghệ thông tin
+1911205	Nguyễn Hữu Đức	Thanh	CTK43	Khoa Công nghệ thông tin
+1910123	Trần Thanh	Hà	CTK43	Khoa Công nghệ thông tin
+1914899	Trần Minh	Cảnh	CTK43	Khoa Công nghệ thông tin
+1914801	Phạm Huy	Đức	CTK43	Khoa Công nghệ thông tin
+1914745	Cao Dương Sơn	Hiếu	CTK43	Khoa Công nghệ thông tin
+1910152	Trương Quang	Tuấn	CTK43	Khoa Công nghệ thông tin
+1812803	Nguyễn Hoàng Diễm	My	CTK42	Khoa Công nghệ thông tin
+1910115	Lưu Nguyễn Vân	Anh	CTK43	Khoa Công nghệ thông tin
+1610184	Võ Đức	Phong	CTK40	Khoa Công nghệ thông tin
+1710196	Nguyễn Đăng	Khoa	CTK41	Khoa Công nghệ thông tin
+1610184	Võ Đức	Phong	CTK40	Khoa Công nghệ thông tin
+1812725	Hoàng Ngọc	Anh	CTK42	Khoa Công nghệ thông tin
+1710251	Thạch Sơn Kim	Quang	CTK41	Khoa Công nghệ thông tin
+1610098	Nguyễn Văn Hải	Đăng	CTK40	Khoa Công nghệ thông tin
+1910134	Nguyễn Thị Thanh	Lịch	CTK43	Khoa Công nghệ thông tin
+1911173	Lê Giáp	Nghĩa	CTK43	Khoa Công nghệ thông tin
+1710218	Hoàng Anh	Minh	CTK41	Khoa Công nghệ thông tin
+1911153	Lê Quang	Hùng	CTK43	Khoa Công nghệ thông tin
+1813766	Dương Văn	Tứ	CTK42	Khoa Công nghệ thông tin
+1710292	Cao Hữu Anh	Tú	CTK41	Khoa Công nghệ thông tin
+1710218	Hoàng Anh	Minh	CTK41	Khoa Công nghệ thông tin
+1812823	Vi Văn	Phúc	CTK42	Khoa Công nghệ thông tin
+1710252	Trần Đình	Quang	CTK41	Khoa Công nghệ thông tin
+1710274	Nguyễn Tiến	Thuận	CTK41	Khoa Công nghệ thông tin
+1812725	Hoàng Ngọc	Anh	CTK42	Khoa Công nghệ thông tin
+1610184	Võ Đức	Phong	CTK40	Khoa Công nghệ thông tin
+1610184	Võ Đức	Phong	CTK40	Khoa Công nghệ thông tin
+1910115	Lưu Nguyễn Vân	Anh	CTK43	Khoa Công nghệ thông tin
+1910011	Phetsomphu 	Viengxai	CTK43	Khoa Công nghệ thông tin
+1911200	Trần Thành	Tài	CTK43	Khoa Công nghệ thông tin
+1911161	Vũ Mạnh	Lam	CTK43	Khoa Công nghệ thông tin
+1911213	Phan Thị Hoài	Thương	CTK43	Khoa Công nghệ thông tin
+1914627	Lê Thành	Tựu	CTK43	Khoa Công nghệ thông tin
+1914883	Nguyễn Văn	Huấn	CTK43	Khoa Công nghệ thông tin
+1610098	Nguyễn Văn Hải	Đăng	CTK40	Khoa Công nghệ thông tin
+1910132	Huỳnh Khánh	Lâm	CTK43	Khoa Công nghệ thông tin
+1911127	Lê Nguyễn	Anh	CTK43	Khoa Công nghệ thông tin
+1914926	Hoàng Minh	Đức	CTK43	Khoa Công nghệ thông tin
+1910152	Trương Quang	Tuấn	CTK43	Khoa Công nghệ thông tin
+1910136	Tôn Thất Nhật	Minh	CTK43	Khoa Công nghệ thông tin
+1911166	Võ Công	Lý	CTK43	Khoa Công nghệ thông tin
+1911170	Nguyễn Hữu Thành	Nam	CTK43	Khoa Công nghệ thông tin
+1914745	Cao Dương Sơn	Hiếu	CTK43	Khoa Công nghệ thông tin
+1911191	Bùi Huy	Quang	CTK43	Khoa Công nghệ thông tin
+1911194	Võ Ái	Quốc	CTK43	Khoa Công nghệ thông tin
+1910124	Trần Ngọc	Hậu	CTK43	Khoa Công nghệ thông tin
+1911162	Mai Thanh	Lâm	CTK43	Khoa Công nghệ thông tin
+1910123	Trần Thanh	Hà	CTK43	Khoa Công nghệ thông tin
+1911189	Trần Đình	Quân	CTK43	Khoa Công nghệ thông tin
+1914801	Phạm Huy	Đức	CTK43	Khoa Công nghệ thông tin
+1914899	Trần Minh	Cảnh	CTK43	Khoa Công nghệ thông tin
+1911158	Nguyễn Hoàng Đăng	Khoa	CTK43	Khoa Công nghệ thông tin
+1710218	Hoàng Anh	Minh	CTK41	Khoa Công nghệ thông tin
+1911173	Lê Giáp	Nghĩa	CTK43	Khoa Công nghệ thông tin
+1910127	Nhữ Văn	Hữu	CTK43	Khoa Công nghệ thông tin
+1911164	Võ Đình Hoàng	Long	CTK43	Khoa Công nghệ thông tin
+1910155	Ngô Phạm Tú	Uyên	CTK43	Khoa Công nghệ thông tin
+1911205	Nguyễn Hữu Đức	Thanh	CTK43	Khoa Công nghệ thông tin
+1911217	Hoàng Nghĩa	Tuấn	CTK43	Khoa Công nghệ thông tin
+1710234	Trương Quốc	Nhân	CTK41	Khoa Công nghệ thông tin
+1813766	Dương Văn	Tứ	CTK42	Khoa Công nghệ thông tin
+1813758	Nguyễn Thành	Luân	CTK42	Khoa Công nghệ thông tin
+1910156	Nguyễn Hoàng Trung	Vương	CTK43	Khoa Công nghệ thông tin
+1911165	Phan Hoàng	Luân	CTK43	Khoa Công nghệ thông tin
+1911153	Lê Quang	Hùng	CTK43	Khoa Công nghệ thông tin
+1911147	Đào Xuân	Hải	CTK43	Khoa Công nghệ thông tin
+1911133	Nguyễn Trần Quang	Bảo	CTK43	Khoa Công nghệ thông tin
+1911216	Nguyễn Hiền Tuấn	Trọng	CTK43	Khoa Công nghệ thông tin
+1911185	Nguyễn Thành	Phú	CTK43	Khoa Công nghệ thông tin
+1911182	Nguyễn Văn	Nhựt	CTK43	Khoa Công nghệ thông tin
+1914775	Đinh Trọng	Đạt	CTK43	Khoa Công nghệ thông tin
+1914623	Nguyễn Đức	Anh	CTK43	Khoa Công nghệ thông tin
+1911186	Não Thị Hồng	Phúc	CTK43	Khoa Công nghệ thông tin
+1914762	Lê Thanh Tiến	Phát	CTK43	Khoa Công nghệ thông tin
+1812807	Nguyễn Minh	Nghiệm	CTK42	Khoa Công nghệ thông tin
+1911211	Nguyễn Ngọc Thiên	Thư	CTK43	Khoa Công nghệ thông tin
+1911160	Phan Trung	Kiên	CTK43	Khoa Công nghệ thông tin
+1910128	Phan Quốc	Huy	CTK43	Khoa Công nghệ thông tin
+1910956	Nguyễn Ngọc Thanh	Bảo	AVK43A	Khoa Ngoại ngữ
+1914347	Nguyễn Thị	Thanh	AVK43A	Khoa Ngoại ngữ
+1914434	Trương Lê Thảo	Uyên	AVK43A	Khoa Ngoại ngữ
+1914273	Trần Đặng Thảo	Nguyên	AVK43A	Khoa Ngoại ngữ
+1914153	Klong K'	Hiền	AVK43A	Khoa Ngoại ngữ
+1914087	Nguyễn Quốc	Bảo	AVK43A	Khoa Ngoại ngữ
+1914170	Ngô Minh	Hoàng	AVK43A	Khoa Ngoại ngữ
+1914084	Phạm Thị Xuân	Ánh	AVK43A	Khoa Ngoại ngữ
+1914120	Phan Nguyễn Kim	Dung	AVK43A	Khoa Ngoại ngữ
+1914172	Trương Đình Thiên	Hoàng	AVK43A	Khoa Ngoại ngữ
+1910976	Huỳnh Thị Bảo	Hân	AVK43A	Khoa Ngoại ngữ
+1910971	Hoàng Thị	Hà	AVK43A	Khoa Ngoại ngữ
+1914071	Hoàng Thị Mai	Anh	AVK43A	Khoa Ngoại ngữ
+1914177	Trương Thị Thanh	Hương	AVK43A	Khoa Ngoại ngữ
+1914314	Vũ Thị Minh	Phương	AVK43A	Khoa Ngoại ngữ
+1910959	Trương Thị Kim	Châu	AVK43A	Khoa Ngoại ngữ
+1911004	Phạm Hoàn Kim	Ngân	AVK43A	Khoa Ngoại ngữ
+1914469	Vũ Thị Hải	Yến	AVK43A	Khoa Ngoại ngữ
+1911053	Lưu Thị Minh	Trang	AVK43A	Khoa Ngoại ngữ
+1911034	Trần Thùy	Quỳnh	AVK43A	Khoa Ngoại ngữ
+1914156	Ka 	Hiệp	AVK43A	Khoa Ngoại ngữ
+1914309	Nguyễn Thị Thanh	Phương	AVK43A	Khoa Ngoại ngữ
+1914226	Nguyễn Hồng Nhật	Linh	AVK43A	Khoa Ngoại ngữ
+1914466	Trần Ngọc Nam	Yên	AVK43A	Khoa Ngoại ngữ
+1910985	Trần Đức	Huy	AVK43A	Khoa Ngoại ngữ
+1914916	Trương Thị Lan	Anh	AVK43A	Khoa Ngoại ngữ
+1810233	Hoàng Trường	Giang	AVK42A	Khoa Ngoại ngữ
+1910983	Ngô Huỳnh Thiên	Hương	AVK43B	Khoa Ngoại ngữ
+1911011	Hàng Trang	Nguyên	AVK43B	Khoa Ngoại ngữ
+1914793	Lê Trần Minh	Quân	AVK43B	Khoa Ngoại ngữ
+1914672	Nguyễn Đăng	Trường	AVK43B	Khoa Ngoại ngữ
+1914321	Cao Nguyễn Tú	Quyên	AVK43B	Khoa Ngoại ngữ
+1914467	Nguyễn Hải	Yến	AVK43B	Khoa Ngoại ngữ
+1914386	Nguyễn Thân Thuỷ	Tiên	AVK43B	Khoa Ngoại ngữ
+1914202	Nguyễn Phạm Đăng	Khoa	AVK43B	Khoa Ngoại ngữ
+1810403	Trần Cao Tuyết	Nhi	AVK42C	Khoa Ngoại ngữ
+1910977	Trần Thị Diễm	Hằng	AVK43B	Khoa Ngoại ngữ
+1914294	Cai Huỳnh Hoàng	Phố	AVK43B	Khoa Ngoại ngữ
+1914363	Nguyễn Thị Minh	Thu	AVK43B	Khoa Ngoại ngữ
+1914415	Nguyễn Phương	Trinh	AVK43B	Khoa Ngoại ngữ
+1914436	Võ Kim Phương	Uyên	AVK43B	Khoa Ngoại ngữ
+1914428	Quảng Thúy	Uy	AVK43B	Khoa Ngoại ngữ
+1914859	Nguyễn Thị	Thanh	AVK43B	Khoa Ngoại ngữ
+1910966	Phạm Ngọc Uyển	Dung	AVK43B	Khoa Ngoại ngữ
+1910990	Trần Ngọc Bảo	Khanh	AVK43B	Khoa Ngoại ngữ
+1914270	Nguyễn Thị Bích	Ngọc	AVK43B	Khoa Ngoại ngữ
+1914349	Nguyễn Xuân	Thành	AVK43B	Khoa Ngoại ngữ
+1914792	Ngô Văn	Hiếu	AVK43B	Khoa Ngoại ngữ
+1810447	Ngô Thái	Sơn	AVK42B	Khoa Ngoại ngữ
+1911029	Trần Đình	Phước	AVK43B	Khoa Ngoại ngữ
+1911063	Nguyễn Lương Hoài	Vân	AVK43B	Khoa Ngoại ngữ
+1914132	Nguyễn Huỳnh Thu	Hà	AVK43B	Khoa Ngoại ngữ
+1914397	Nguyễn Thị Quỳnh	Trâm	AVK43B	Khoa Ngoại ngữ
+1914143	Lê Thị	Hằng	AVK43B	Khoa Ngoại ngữ
+1914461	Hoàng Thị Hà	Xuyên	AVK43B	Khoa Ngoại ngữ
+1914798	Nguyễn Thị Phương	Thảo	AVK43B	Khoa Ngoại ngữ
+1911031	Nguyễn Thị Kim	Phượng	AVK43B	Khoa Ngoại ngữ
+1911023	Trần Thị Huyền	Nhung	AVK43B	Khoa Ngoại ngữ
+1914362	Lăng Quang	Thới	AVK43B	Khoa Ngoại ngữ
+1914396	Nguyễn Thị Ngọc	Trâm	AVK43B	Khoa Ngoại ngữ
+1914354	Ka 	Thị	AVK43C	Khoa Ngoại ngữ
+1911059	Nguyễn Trần Cẩm	Uyên	AVK43C	Khoa Ngoại ngữ
+1911021	Phạm Quỳnh Bảo	Như	AVK43C	Khoa Ngoại ngữ
+1910964	Nguyễn Kim	Định	AVK43A	Khoa Ngoại ngữ
+1914800	Mai Thị Bích	Hồng	AVK43C	Khoa Ngoại ngữ
+1914274	Võ Thị Thảo	Nguyên	AVK43C	Khoa Ngoại ngữ
+1914334	Ksor 	Rin	AVK43C	Khoa Ngoại ngữ
+1914210	Lại Thị Mỹ	Kiều	AVK43C	Khoa Ngoại ngữ
+1914923	Lê Trương Khánh	Quyên	AVK43C	Khoa Ngoại ngữ
+1914714	Nguyễn Đặng Ý	Linh	AVK43C	Khoa Ngoại ngữ
+1914460	Dương Hồ Trúc	Xuân	AVK43C	Khoa Ngoại ngữ
+1914435	Trương Lê Tố	Uyên	AVK43C	Khoa Ngoại ngữ
+1914417	Trần Thị Tuyết	Trinh	AVK43C	Khoa Ngoại ngữ
+1914110	Nguyễn Thị Thúy	Diễm	AVK43C	Khoa Ngoại ngữ
+1914673	Huỳnh Thị	Út	AVK43C	Khoa Ngoại ngữ
+1914125	Trần Thảo	Duyên	AVK43C	Khoa Ngoại ngữ
+1914293	Ka Sả Ha	Phát	AVK43C	Khoa Ngoại ngữ
+1713929	Nguyễn Ngọc	Thông	AVK41C	Khoa Ngoại ngữ
+1910958	Hứa Nguyễn Minh	Châu	AVK43C	Khoa Ngoại ngữ
+1910963	Điểu Thị	Diêu	AVK43C	Khoa Ngoại ngữ
+1910997	Ngô Thị	Loan	AVK43C	Khoa Ngoại ngữ
+1914834	Trần Quý	Châu	AVK43C	Khoa Ngoại ngữ
+1914348	Nguyễn Thế	Thành	AVK43C	Khoa Ngoại ngữ
+1914288	NguyễN Thị TuyếT	Nhung	AVK43C	Khoa Ngoại ngữ
+1910996	Nguyễn Thị Ngọc	Linh	AVK43C	Khoa Ngoại ngữ
+1910988	Nguyễn Duy	Khang	AVK43C	Khoa Ngoại ngữ
+1914442	Lưu Trần Huyền	Vi	AVK43C	Khoa Ngoại ngữ
+1914357	Trương Thanh	Thiện	AVK43C	Khoa Ngoại ngữ
+1914251	Trần Hoàng	My	AVK43C	Khoa Ngoại ngữ
+1914151	Cao Thị	Hiền	AVK43C	Khoa Ngoại ngữ
+1914882	A	Tế	AVK43C	Khoa Ngoại ngữ
+1910950	Nguyễn Huỳnh Duy	Anh	AVK43C	Khoa Ngoại ngữ
+1914215	Lơ Mu	K'Wi	AVK43D	Khoa Ngoại ngữ
+1914260	Trần Thúy	Ngân	AVK43D	Khoa Ngoại ngữ
+1914296	Nguyễn Hoàng	Phúc	AVK43D	Khoa Ngoại ngữ
+1910994	Đinh Ngọc Khánh	Linh	AVK43D	Khoa Ngoại ngữ
+1810402	Phạm Trần Yến	Nhi	AVK42D	Khoa Ngoại ngữ
+1810467	Dương Ngọc Minh	Thi	AVK42D	Khoa Ngoại ngữ
+1914456	Nguyễn Nguyên	Vy	AVK43D	Khoa Ngoại ngữ
+1914441	Nguyễn Thị Khánh	Vân	AVK43D	Khoa Ngoại ngữ
+1914356	Trần Đắc	Thiện	AVK43D	Khoa Ngoại ngữ
+1914144	Nguyễn Thị Thúy	Hằng	AVK43D	Khoa Ngoại ngữ
+1810516	Lê Thị Diễm	Trinh	AVK42D	Khoa Ngoại ngữ
+1911042	Lê Phúc	Thụ	AVK43D	Khoa Ngoại ngữ
+1914295	Nguyễn Duy	Phúc	AVK43D	Khoa Ngoại ngữ
+1914446	Lê Thị Hồng	Viên	AVK43D	Khoa Ngoại ngữ
+1911065	Lê Thụy Tuyết	Vy	AVK43D	Khoa Ngoại ngữ
+1911009	Dương Viết	Ngọc	AVK43D	Khoa Ngoại ngữ
+1911044	Nguyễn Đặng Vân	Thùy	AVK43D	Khoa Ngoại ngữ
+1911055	Đặng Văn Anh	Tú	AVK43D	Khoa Ngoại ngữ
+1914176	Nguyễn Thị Thanh	Hương	AVK43D	Khoa Ngoại ngữ
+1914339	Lê Văn Tấn	Tài	AVK43D	Khoa Ngoại ngữ
+1914358	Võ Trọng	Thiện	AVK43D	Khoa Ngoại ngữ
+1914095	Vi Thị Ngọc	Châm	AVK43D	Khoa Ngoại ngữ
+1914346	Nguyễn Hồng	Thắng	AVK43D	Khoa Ngoại ngữ
+1914123	Đinh Thị Ánh	Duyên	AVK43D	Khoa Ngoại ngữ
+1914263	Võ Hồng	Ngân	AVK43D	Khoa Ngoại ngữ
+1914259	Phạm Thị Tuyết	Ngân	AVK43D	Khoa Ngoại ngữ
+1914269	Nguyễn Kim Hồng	Ngọc	AVK43D	Khoa Ngoại ngữ
+1914385	Nguyễn Ngọc Thủy	Tiên	AVK43D	Khoa Ngoại ngữ
+1914457	Phạm Thị Thảo	Vy	AVK43D	Khoa Ngoại ngữ
+1914440	Nguyễn Thị Cẩm	Vân	AVK43D	Khoa Ngoại ngữ
+1911003	Võ Hoàng	Nam	AVK43D	Khoa Ngoại ngữ
+1713942	Nguyễn Thúc Như	Thục	AVK41D	Khoa Ngoại ngữ
+1914161	Vũ Minh	Hiếu	AVK43D	Khoa Ngoại ngữ
+1914721	Đỗ Ngọc Phương	Linh	AVK43D	Khoa Ngoại ngữ
+1914382	Huỳnh Thị Mai	Thủy	AVK43E	Khoa Ngoại ngữ
+1914426	Nguyễn Tống Thanh	Tuyền	AVK43E	Khoa Ngoại ngữ
+1914448	Đặng Luân	Vũ	AVK43E	Khoa Ngoại ngữ
+1810369	Hồ Vũ Bảo	Nghi	AVK42C	Khoa Ngoại ngữ
+1914088	Phạm Thiên	Bảo	AVK43E	Khoa Ngoại ngữ
+1911041	Nguyễn Anh	Thư	AVK43E	Khoa Ngoại ngữ
+1914687	Trần Nguyễn Minh	Ngọc	AVK43E	Khoa Ngoại ngữ
+1914443	Phạm Thảo	Vi	AVK43E	Khoa Ngoại ngữ
+1914074	Mai Vũ Hoàng	Anh	AVK43E	Khoa Ngoại ngữ
+1914184	Trần Quang	Huy	AVK43E	Khoa Ngoại ngữ
+1914179	Ka 	Hựu	AVK43E	Khoa Ngoại ngữ
+1914064	Lê Thị Thùy	An	AVK43E	Khoa Ngoại ngữ
+1914086	Phạm Hà Trọng	Bằng	AVK43E	Khoa Ngoại ngữ
+1910999	Chế Nhật Tấn	Long	AVK43E	Khoa Ngoại ngữ
+1914066	Nguyễn Ngọc	An	AVK43E	Khoa Ngoại ngữ
+1914405	Nguyễn Hồng	Trang	AVK43E	Khoa Ngoại ngữ
+1914449	Đỗ Quang	Vũ	AVK43E	Khoa Ngoại ngữ
+1914289	Trần Thị Trang	Nhung	AVK43E	Khoa Ngoại ngữ
+1914135	Hoàng Nhi Nguyệt	Hạ	AVK43E	Khoa Ngoại ngữ
+1914082	Ngô Thị Ngọc	Ánh	AVK43E	Khoa Ngoại ngữ
+1910952	Trần Thị Lan	Anh	AVK43E	Khoa Ngoại ngữ
+1914371	Trần Thị Anh	Thư	AVK43E	Khoa Ngoại ngữ
+1914304	Kiều Thu	Phương	AVK43E	Khoa Ngoại ngữ
+1914336	Ha 	Sáu	AVK43E	Khoa Ngoại ngữ
+1914249	Đặng Huỳnh Nhật	Minh	AVK43E	Khoa Ngoại ngữ
+1914264	Vũ Lê Thanh	Ngân	AVK43E	Khoa Ngoại ngữ
+1914175	Ka 	Hương	AVK43E	Khoa Ngoại ngữ
+1911039	Trần Phương	Thảo	AVK43E	Khoa Ngoại ngữ
+1914155	Nguyễn Thị Thu	Hiền	AVK43E	Khoa Ngoại ngữ
+1914178	Nguyễn Thu	Hưởng	AVK43E	Khoa Ngoại ngữ
+1910965	Lại Thị Mỹ	Dung	AVK43E	Khoa Ngoại ngữ
+1910953	Trần Thụy Hoàng	Anh	AVK43F	Khoa Ngoại ngữ
+1914190	Ka' 	Huỳnh	AVK43F	Khoa Ngoại ngữ
+1914367	Lê Phạm Minh	Thư	AVK43F	Khoa Ngoại ngữ
+1914106	Đinh Thị Hồng	Đào	AVK43F	Khoa Ngoại ngữ
+1910981	Đào Nữ Dung	Hòa	AVK43F	Khoa Ngoại ngữ
+1914432	Ngô Thị Hương	Uyên	AVK43F	Khoa Ngoại ngữ
+1914140	Nguyễn Châu Gia	Hân	AVK43F	Khoa Ngoại ngữ
+1914921	Đặng Thanh	Nhi	AVK43F	Khoa Ngoại ngữ
+1911062	Lê Thái	Vân	AVK43F	Khoa Ngoại ngữ
+1914311	Trần Anh	Phương	AVK43F	Khoa Ngoại ngữ
+1914216	Huỳnh Thị Thu	Lài	AVK43F	Khoa Ngoại ngữ
+1914365	Cil Liêng	Thư	AVK43F	Khoa Ngoại ngữ
+1914266	Phạm Đông	Nghi	AVK43F	Khoa Ngoại ngữ
+1914228	Phạm Thị Mỹ	Linh	AVK43F	Khoa Ngoại ngữ
+1914121	Từ Ngọc Mỹ	Dung	AVK43F	Khoa Ngoại ngữ
+1914114	Kơ Să K'	Dim	AVK43F	Khoa Ngoại ngữ
+1914208	Đoàn Võ Anh	Kiệt	AVK43F	Khoa Ngoại ngữ
+1914351	Đỗ Thị Phương	Thảo	AVK43F	Khoa Ngoại ngữ
+1914301	Lương Thị Ánh	Phước	AVK43F	Khoa Ngoại ngữ
+1914905	Vũ Thị Thanh	Lam	AVK43F	Khoa Ngoại ngữ
+1810403	Trần Cao Tuyết	Nhi	AVK42C	Khoa Ngoại ngữ
+1914321	Cao Nguyễn Tú	Quyên	AVK43B	Khoa Ngoại ngữ
+2010254	Ninh Nhật Thảo	Vy	AVK44C	Khoa Ngoại ngữ
+2010104	Bùi Thị Minh	Hằng	AVK44C	Khoa Ngoại ngữ
+2012004	Lê Thành	Nhân	AVK44C	Khoa Ngoại ngữ
+2010075	Lâm Ngọc	Bích	AVK44C	Khoa Ngoại ngữ
+2010119	Trương Hùng	Hưng	AVK44C	Khoa Ngoại ngữ
+2010097	Trần Phú Đức	Hà	AVK44C	Khoa Ngoại ngữ
+2010125	Dương Thị Thu	Huyền	AVK44C	Khoa Ngoại ngữ
+2010130	Phạm Bảo	Khương	AVK44C	Khoa Ngoại ngữ
+2010224	Lại Nguyên Huyền	Trang	AVK44C	Khoa Ngoại ngữ
+2015784	Nguyễn Đức An	Thuyên	AVK44C	Khoa Ngoại ngữ
+2012010	Trần Đặng Tuyết	Nhung	AVK44C	Khoa Ngoại ngữ
+2010204	Hồ Nguyễn Phương	Thảo	AVK44C	Khoa Ngoại ngữ
+2010132	Nguyễn Ngọc Tuấn	Kiệt	AVK44C	Khoa Ngoại ngữ
+2010234	Hoàng Thị Cẩm	Tú	AVK44C	Khoa Ngoại ngữ
+2010237	Trần Quốc	Tuấn	AVK44C	Khoa Ngoại ngữ
+2012025	Đặng Thị Ngọc	Trang	AVK44C	Khoa Ngoại ngữ
+2010149	Nguyễn Thùy Thủy	Linh	AVK44C	Khoa Ngoại ngữ
+2010159	Nguyễn Thị Quỳnh	Mai	AVK44C	Khoa Ngoại ngữ
+2010225	Mai Thị Thanh	Trang	AVK44C	Khoa Ngoại ngữ
+2010073	Mai Hữu Thiên	Bách	AVK44C	Khoa Ngoại ngữ
+2010250	Đỗ Ngọc Tường	Vy	AVK44C	Khoa Ngoại ngữ
+2011991	Nguyễn Hoàng Phi	Long	AVK44C	Khoa Ngoại ngữ
+2011990	Mông Xuân	Lâm	AVK44C	Khoa Ngoại ngữ
+2010088	Lê Thị Út	Dịu	AVK44C	Khoa Ngoại ngữ
+2010212	Nguyễn Thị Minh	Thư	AVK44C	Khoa Ngoại ngữ
+2015830	Trần Duy	Thanh	TNK44	Khoa Toán - Tin học
+2011341	Võ Hoàng	Bảo	TNK44	Khoa Toán - Tin học
+2011347	Nguyễn Hữu	Trọng	TNK44	Khoa Toán - Tin học
+2011345	Trần Đạt	Tín	TNK44	Khoa Toán - Tin học
+2015830	Trần Duy	Thanh	TNK44	Khoa Toán - Tin học
+2011347	Nguyễn Hữu	Trọng	TNK44	Khoa Toán - Tin học
+2011341	Võ Hoàng	Bảo	TNK44	Khoa Toán - Tin học
+2011345	Trần Đạt	Tín	TNK44	Khoa Toán - Tin học
+2011345	Trần Đạt	Tín	TNK44	Khoa Toán - Tin học
+2011347	Nguyễn Hữu	Trọng	TNK44	Khoa Toán - Tin học
+2011341	Võ Hoàng	Bảo	TNK44	Khoa Toán - Tin học
+2015830	Trần Duy	Thanh	TNK44	Khoa Toán - Tin học

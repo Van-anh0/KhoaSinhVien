@@ -1,0 +1,22 @@
+﻿1910156	Nguyễn Hoàng Trung	Vương	CTK43	Khoa Công nghệ thông tin
+1910156	Nguyễn Hoàng Trung	Vương	CTK43	Khoa Công nghệ thông tin
+1911190	Trần Văn	Quân	CTK43	Khoa Công nghệ thông tin
+1910133	Phan Nhật	Lâm	CTK43	Khoa Công nghệ thông tin
+1910132	Huỳnh Khánh	Lâm	CTK43	Khoa Công nghệ thông tin
+1911200	Trần Thành	Tài	CTK43	Khoa Công nghệ thông tin
+2012356	Nguyễn Việt	Hoàng	CTK44B	Khoa Công nghệ thông tin
+1610184	Võ Đức	Phong	CTK40	Khoa Công nghệ thông tin
+2015591	Bon Đinh Hải	Dương	CTK44B	Khoa Công nghệ thông tin
+2015840	Nguyễn Ngọc Minh	Tiến	CTK44B	Khoa Công nghệ thông tin
+1911162	Mai Thanh	Lâm	CTK43	Khoa Công nghệ thông tin
+1812732	Trần Phúc Quang	Châu	CTK42	Khoa Công nghệ thông tin
+1812728	Bùi Quốc	Bảo	CTK42	Khoa Công nghệ thông tin
+1910136	Tôn Thất Nhật	Minh	CTK43	Khoa Công nghệ thông tin
+1910134	Nguyễn Thị Thanh	Lịch	CTK43	Khoa Công nghệ thông tin
+2015597	Đoàn Quang	Huy	CTK44B	Khoa Công nghệ thông tin
+2012356	Nguyễn Việt	Hoàng	CTK44B	Khoa Công nghệ thông tin
+2015840	Nguyễn Ngọc Minh	Tiến	CTK44B	Khoa Công nghệ thông tin
+2014478	Nguyễn Xuân	Phát	CTK44B	Khoa Công nghệ thông tin
+2014485	Quảng Văn	Sương	CTK44B	Khoa Công nghệ thông tin
+2014468	Nguyễn Thành	Long	CTK44B	Khoa Công nghệ thông tin
+2015838	Đỗ Hoài	Nam	CTK44B	Khoa Công nghệ thông tin
