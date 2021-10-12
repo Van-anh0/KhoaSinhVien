@@ -16,7 +16,7 @@ namespace KhoaSinhVien.IO
         {
         }
 
-        public List<Student> ImportFromFile()
+        private List<Student> ImportFromFile()
         {
             List<Student> ds = new List<Student>();
           
@@ -58,7 +58,7 @@ namespace KhoaSinhVien.IO
             return ds;
         }
 
-        public List<Department> ListDepartments(List<Student> ds)
+        private List<Department> ListDepartments(List<Student> ds)
         {
             List<Department> dsDep = new List<Department>();
 

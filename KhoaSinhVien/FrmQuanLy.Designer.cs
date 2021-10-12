@@ -91,14 +91,14 @@ namespace KhoaSinhVien
             // tsmiSaveExcel
             // 
             this.tsmiSaveExcel.Name = "tsmiSaveExcel";
-            this.tsmiSaveExcel.Size = new System.Drawing.Size(224, 26);
+            this.tsmiSaveExcel.Size = new System.Drawing.Size(126, 26);
             this.tsmiSaveExcel.Text = "Excel";
             this.tsmiSaveExcel.Click += new System.EventHandler(this.tsmiSaveExcel_Click);
             // 
             // tsmiSaveJson
             // 
             this.tsmiSaveJson.Name = "tsmiSaveJson";
-            this.tsmiSaveJson.Size = new System.Drawing.Size(224, 26);
+            this.tsmiSaveJson.Size = new System.Drawing.Size(126, 26);
             this.tsmiSaveJson.Text = "Json";
             this.tsmiSaveJson.Click += new System.EventHandler(this.tsmiSaveJson_Click);
             // 
@@ -227,6 +227,7 @@ namespace KhoaSinhVien
             this.txtSearch.Name = "txtSearch";
             this.txtSearch.Size = new System.Drawing.Size(376, 22);
             this.txtSearch.TabIndex = 4;
+           
             this.txtSearch.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtSearch_KeyPress);
             // 
             // rdbSDT

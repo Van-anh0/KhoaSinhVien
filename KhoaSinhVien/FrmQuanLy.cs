@@ -111,15 +111,37 @@ namespace KhoaSinhVien
         }
 
    
+        private List<Student> ReturnAllStudents()
+        {
+            
+            var departments = _importExport.GetDepartments();
+            List<Student> students = new List<Student>();
+
+            foreach (var k in departments)
+            {
+                foreach (var l in k.classes)
+                {
+                    foreach (var sv in l.students)
+                    {
+                        students.Add(sv);
+                    }
+                }
+            }
+            return students;
+
+            // lấy danh sách đã thay đổi thì mới tìm kiếm ra mấy sinh viên sửa,
+            //không phải lấy ds ban đầu
+        }
 
         private void txtSearch_KeyPress(object sender, KeyPressEventArgs e)
         {
            if (e.KeyChar == 13)
             {
 
-                var students = _importExport.ImportFromFile();
+                List<Student> students = ReturnAllStudents();
 
                 List<Student> dsSearch = new List<Student>();
+
                 if (rdbHoTen.Checked)
                 {
                     var hoTen = txtSearch.Text.Trim().ToLower();
@@ -213,7 +235,7 @@ namespace KhoaSinhVien
         {
             var dialog = new FrmStudent(_importExport, true);
 
-            List<Student> listStudents = _importExport.ImportFromFile();
+            List<Student> listStudents = ReturnAllStudents();
             int cout = lvInformation.SelectedItems.Count;
             if (cout > 0)
             {
@@ -335,5 +357,7 @@ namespace KhoaSinhVien
                 
             }
         }
+
+        
     }
 }
